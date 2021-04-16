@@ -112,7 +112,7 @@ def extract_so(sentence):
 
 # Function that tries all the other functionalities and prints the relevant results
 def assignment_test():
-      sentence = "I saw a man with a Telescope"
+  sentence = "I saw a man with a Telescope"
   print("------------------------------------------")
   print("1st")
   print("Input sentence: ", sentence)
