@@ -1,4 +1,4 @@
-# FirstAssignment
+# FirstAssignment Natural Language Understanding Course 2020/2021
 Required libraries : spacy
 
 In order to test the functionalities you need to run the "assignment.py".
